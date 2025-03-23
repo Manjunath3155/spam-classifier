@@ -19,4 +19,5 @@ iface = gr.Interface(
     description="Type a message below to check if it's spam or not."
 )
 iface.launch()
+#Vercel trigger
 
